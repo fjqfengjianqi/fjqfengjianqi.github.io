@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "China"
-title                    : "冯健齐 / Jensen Fung"
+title                    : "冯健齐的个人主页"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "冯健齐"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
